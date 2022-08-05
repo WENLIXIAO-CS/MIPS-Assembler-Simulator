@@ -1,0 +1,3 @@
+/Users/randyxiao/Documents/daily-workspace/schoolwork/csc3050/assignment 1/build-main-Desktop_Qt_5_15_1_clang_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/randyxiao/Documents/daily-workspace/schoolwork/csc3050/assignment 1/build-main-Desktop_Qt_5_15_1_clang_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/randyxiao/Documents/daily-workspace/schoolwork/csc3050/assignment 1/build-main-Desktop_Qt_5_15_1_clang_64bit-Debug/CMakeFiles/main.dir
